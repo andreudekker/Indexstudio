@@ -1,0 +1,42 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1426476872357">
+  <folder name="css">
+    <file name="site_global.css" crc="3991134328"/>
+    <file name="master_a-p_g_-maestra.css" crc="50429864" ref="index"/>
+    <file name="index.css" crc="297119235" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:index"/>
+    <file name="museutils.js" crc="212726984" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3986430445" ref="index"/>
+    <file name="webpro.js" crc="114405901" ref="index"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="index"/>
+    <file name="touchswipe.js" crc="12843993" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="index"/>
+    <file name="form_check.php" crc="303526209" ref="index"/>
+    <file name="form_throttle.php" crc="219462772" ref="index"/>
+    <file name="form-u234.php" crc="4003234695" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u134-grad.png" crc="116752566" ref="phone>index"/>
+    <file name="04.jpg" crc="3895303598" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="03.jpg" crc="209921540" ref="index"/>
+    <file name="01.jpg" crc="446719644" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u510-grad.png" crc="3840542653" ref="index"/>
+    <file name="u246-17.png" crc="498152809" ref="index"/>
+    <file name="u246-17-r.png" crc="4220634845" ref="index"/>
+    <file name="u246-17-m.png" crc="145406458" ref="index"/>
+    <file name="u246-17-fs.png" crc="126018195" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4075289715" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="248797838" mt="1426469410238" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="461974542" mt="1426476791282" redirect="true"/>
+</manifest>

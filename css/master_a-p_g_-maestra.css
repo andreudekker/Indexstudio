@@ -1,0 +1,106 @@
+#u510
+{
+	-pie-box-shadow: 4px 4px 8px #F2F2F2;
+	-moz-box-shadow: 4px 4px 8px rgba(127, 127, 127, 0.1);
+	-webkit-box-shadow: 4px 4px 8px -1px rgba(127, 127, 127, 0.1);
+	box-shadow: 4px 4px 8px rgba(127, 127, 127, 0.1);
+	background: #7F7F7F url("../images/u510-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#1E1E1E),color-stop(100%, #7F7F7F));
+	background: -webkit-linear-gradient(top,#1E1E1E ,#7F7F7F 2570px);
+	background: -o-linear-gradient(top,#1E1E1E ,#7F7F7F 2570px);
+	background: linear-gradient(to bottom,#1E1E1E ,#7F7F7F 2570px);
+	border-style: solid;
+	border-color: #2AFF9B;
+	position: fixed;
+	border-width: 0px 0px 1px;
+}
+
+#u639-4
+{
+	background-color: transparent;
+	color: #2AFF9B;
+	text-align: left;
+	position: fixed;
+}
+
+#u639-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u639
+{
+	font-size: 22px;
+	line-height: 26px;
+}
+
+#u634
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #2AFF9B;
+	background-color: transparent;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	position: fixed;
+}
+
+#u634:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u635
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #2AFF9B;
+	background-color: transparent;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	position: fixed;
+}
+
+#u635:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u636
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #2AFF9B;
+	background-color: transparent;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	position: fixed;
+}
+
+#u636:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u634.MuseLinkActive,#u635.MuseLinkActive,#u636.MuseLinkActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #2AFF9B;
+}
+
